@@ -25,7 +25,7 @@
 * Adapter 1 : NAT
 * Adapter 2 : Host-Only
 
-![Description](images/i.png)
+![Description](images/1.png)
 
 * Import OVA
 * Settings réseau (NAT + Host-Only visibles)
